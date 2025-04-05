@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Starter-Kit [ React + TypeScript + Vite ]
 
 This template provides a minimal setup to get React working with Vite, featuring HMR and basic ESLint rules.
 
